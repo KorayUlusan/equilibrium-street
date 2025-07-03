@@ -54,7 +54,7 @@ Let’s compute the first few values of $f(x)$, the house numbers that make the 
 | 4      | 204                           | 288                |
 | 5      | 1189                          | 1681               |
 
-Sadly, I couldn't find the corresponding OEIS sequence.
+The OEIS sequences are [A001109](https://oeis.org/A001109) for $f(x)$ and [A001108](https://oeis.org/A001108) for $n$.
 
 
 ## Why This Is Cool
