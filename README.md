@@ -154,3 +154,8 @@ print(balancing_house_numbers(10))
 ```
 
 For an O(1) time solution see [balancing-house-numbers-in-constant-time.md](balancing-house-numbers-in-constant-time.md)
+
+
+## References
+
+Waldschmidt, M. (2022, November). On the Ramanujan street puzzle of Prasanta Chandra Mahalanobis. Lecture at Cochin University of Science and Technology (CUSAT). Retrieved from [http://www.imj-prg.fr/~michel.waldschmidt/](http://www.imj-prg.fr/~michel.waldschmidt/)
